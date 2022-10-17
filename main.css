@@ -1,0 +1,22 @@
+
+img {
+    height: 415px;
+}
+
+.cards-group {
+    margin: 32px 0;
+}
+
+.card {
+    margin: 16px 0;
+}
+
+header h1 {
+    padding: 16px;
+}
+
+@media screen and (min-width: 1190px) {
+    img {
+        height: 500px;
+    }
+}
